@@ -1,4 +1,4 @@
-[Years Badge](https://badges.pufler.dev/years/sergialonsaco)](https://badges.pufler.dev)
+[![Years Badge](https://badges.pufler.dev/years/sergialonsaco)](https://badges.pufler.dev)
 
 <h1 align="center">Hi 👋, I'm Sergi Alonso</h1>
 <h3 align="center">A passionate data engineer from Barcelona</h3>
