@@ -8,9 +8,9 @@
 
 - 🔭 I’m currently working on **Alpha Health as Data Engineer**
 
-- 🌱 Studing a Data Science master @ UOC **Machine Learning**
+- 🌱 Studing a **Data Science master @ UOC**
 
-- 👯 Looking to get a deeper knowledege on **ML projects**
+- 👯 Looking to get a **deeper knowledege on Machine Learning**
 
 - 📫 Reach me at **sergi.alonsobadia@gmail.com**
 
