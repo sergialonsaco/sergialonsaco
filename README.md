@@ -1,4 +1,3 @@
-[![Years Badge](https://badges.pufler.dev/years/sergialonsaco)](https://badges.pufler.dev)
 [![Commits Badge](https://badges.pufler.dev/commits/monthly/sergialonsaco)](https://badges.pufler.dev)
 [![Repos Badge](https://badges.pufler.dev/repos/sergialonsaco)](https://badges.pufler.dev)
 [![Gists Badge](https://badges.pufler.dev/gists/sergialonsaco)](https://badges.pufler.dev)
