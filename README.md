@@ -2,7 +2,7 @@
 [![Commits Badge](https://badges.pufler.dev/commits/monthly/sergialonsaco)](https://badges.pufler.dev)
 [![Repos Badge](https://badges.pufler.dev/repos/sergialonsaco)](https://badges.pufler.dev)
 [![Gists Badge](https://badges.pufler.dev/gists/sergialonsaco)](https://badges.pufler.dev)
-[![Visits Badge](https://badges.pufler.dev/visits/sergialonsaco/git-badges)](https://badges.pufler.dev)
+[![Visits Badge](https://badges.pufler.dev/visits/sergialonsaco/sergialonsaco)](https://badges.pufler.dev)
 
 <h1 align="center">Hi 👋, I'm Sergi Alonso</h1>
 <h3 align="center">A passionate data engineer from Barcelona</h3>
