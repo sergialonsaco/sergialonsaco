@@ -8,13 +8,13 @@
 
 - 🔭 I’m currently working on **Alpha Health as Data Engineer**
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 Studing a Data Science master @ UOC **Machine Learning**
 
-- 👯 I’m looking to collaborate on **new ML projects**
+- 👯 Looking to get a deeper knowledege on **ML projects**
 
-- 📫 How to reach me **sergi.alonsobadia@gmail.com**
+- 📫 Reach me at **sergi.alonsobadia@gmail.com**
 
-- ⚡ Fun fact **I love scuba diving**
+- ⚡ Fun fact: **I love scuba diving**
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
