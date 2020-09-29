@@ -27,6 +27,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergialonsaco&layout=compact" alt="sergialonsaco" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sergialonsaco&show_icons=true" alt="sergialonsaco" /></p>
-
-
