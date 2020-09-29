@@ -1,5 +1,5 @@
 [![Commits Badge](https://badges.pufler.dev/commits/monthly/sergialonsaco)](https://badges.pufler.dev)
-[![Repos Badge](https://badges.pufler.dev/repos/sergialonsaco)](https://badges.pufler.dev)
+[![Repos Badge](https://badges.pufler.dev/repos/sergialonsaco)](https://github.com/sergialonsaco?tab=repositories)
 [![Gists Badge](https://badges.pufler.dev/gists/sergialonsaco)](https://badges.pufler.dev)
 [![Visits Badge](https://badges.pufler.dev/visits/sergialonsaco/sergialonsaco)](https://badges.pufler.dev)
 
