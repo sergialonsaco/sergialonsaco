@@ -6,7 +6,7 @@
 <h1 align="center">Hi 👋, I'm Sergi Alonso</h1>
 <h3 align="center">A passionate data engineer from Barcelona</h3>
 
-- 🔭 I’m currently working on **Alpha Health as Data Engineer**
+- 🔭 I’m currently working on **Koa Health as Data Engineer**
 
 - 🌱 Studing a **Data Science master @ UOC**
 
