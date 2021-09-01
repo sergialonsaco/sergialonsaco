@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Koa Health as Data Engineer**
 
-- 🌱 Studing a **Data Science master @ UOC**
+- 🌱 Finished a **Data Science master @ UOC**
 
 - 👯 Looking to get a **deeper knowledege on Machine Learning**
 
