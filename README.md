@@ -4,9 +4,9 @@
 [![Visits Badge](https://badges.pufler.dev/visits/sergialonsaco/sergialonsaco)](https://github.com/sergialonsaco)
 
 <h1 align="center">Hi 👋, I'm Sergi Alonso</h1>
-<h3 align="center">A passionate data engineer from Barcelona</h3>
+<h3 align="center">A passionate engineer from Barcelona</h3>
 
-- 🔭 I’m currently working on **Koa Health as Data Engineer**
+- 🔭 I’m currently working on **DataStax as Software Engineer**
 
 - 🌱 Finished a **Data Science master @ UOC**
 
@@ -14,7 +14,7 @@
 
 - 📫 Reach me at **sergi.alonsobadia@gmail.com**
 
-- ⚡ Fun fact: **I love scuba diving**
+- ⚡ Fun fact: **I'm a rescue&stress open water diver**
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
