@@ -19,4 +19,3 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=sergialonsaco&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="Sergi's GitHub Stats">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sergialonsaco&count_private=true&theme=radical" alt="SergiAlonsaco" />
-<img align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergialonsaco&count_private=true&theme=radical" alt="SanskarJaiswal" />
